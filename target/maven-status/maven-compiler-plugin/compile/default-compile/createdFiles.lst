@@ -1,0 +1,11 @@
+com\Employes\Employedetail\repository\DesignationRepo.class
+com\Employes\Employedetail\util\MessageUtil.class
+com\Employes\Employedetail\service\employeevalidate.class
+com\Employes\Employedetail\Entity\Designation.class
+com\Employes\Employedetail\controller\Employecontroller.class
+com\Employes\Employedetail\controller\postRequest.class
+com\Employes\Employedetail\Entity\Employee.class
+com\Employes\Employedetail\repository\Employerepo.class
+com\Employes\Employedetail\EmployedetailApplication.class
+com\Employes\Employedetail\service\employeeservice.class
+com\Employes\Employedetail\controller\putRequest.class
